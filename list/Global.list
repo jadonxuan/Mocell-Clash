@@ -9,6 +9,9 @@
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # TOTAL: 31830
+DOMAIN-SUFFIX,partner-sso.tiktok.com
+DOMAIN-SUFFIX,partner.tiktok.com
+DOMAIN-SUFFIX,partner.us.tiktokshop.com
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
