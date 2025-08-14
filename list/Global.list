@@ -9,6 +9,7 @@
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # TOTAL: 31830
+DOMAIN-SUFFIX,open.docker.com
 DOMAIN-SUFFIX,api-partner-sg.tiktokshop.com:443
 DOMAIN-SUFFIX,partner-sso.tiktok.com
 DOMAIN-SUFFIX,shop.tiktok.com
